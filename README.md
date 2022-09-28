@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 🤔
 - ⚡ Fun fact: I have no idea what SEO is
 
+![GitHub Views](https://komarev.com/ghpvc/?username=spykelionel)
+
 # Badges
 [![@spykelionel's Holopin board](https://holopin.io/api/user/board?user=spykelionel)](https://holopin.io/@spykelionel)
