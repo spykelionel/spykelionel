@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Bio,speed optimizer
 - 📫 How to reach me: [twitter](https://twitter.com/spykelionel)
 - 😄 Pronouns: 🤔
-- ⚡ Fun fact: I have no idea what SEO is
+- ⚡ Fun fact: I am number 6 ⚠️
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=spykelionel)
 
