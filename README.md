@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on web optimization tools
-- 🌱 I’m currently learning Js (Reactjs, Nodejs)
+- 🌱 Developer (Reactjs, Nodejs)
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with SEO
 - 💬 Ask me about Bio,speed optimizer
