@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [twitter](https://twitter.com/spykelionel)
 - 😄 Pronouns: 🤔
 - ⚡ Fun fact: I am number 6 ⚠️
+- Readme at [blog](https://onecode.hashnode.dev)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=spykelionel)
 
