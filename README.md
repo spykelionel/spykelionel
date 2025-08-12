@@ -1,21 +1,48 @@
-### Hi there 👋
+# 👨‍💻 Ndi Afanyu Lionel
 
-<!--
-**spykelionel/spykelionel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Systems Thinker | Builder of Empowering Tools**
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on web optimization tools
-- 🌱 Developer (Reactjs, Nodejs)
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with SEO
-- 💬 Ask me about Bio,speed optimizer
-- 📫 How to reach me: [twitter](https://twitter.com/spykelionel)
-- 😄 Pronouns: 🤔
-- ⚡ Fun fact: I am number 6 ⚠️
-- Readme at [blog](https://onecode.hashnode.dev)
+Hi, I'm Ndi—a full-stack engineer and DevOps strategist passionate about building resilient, user-centric platforms that solve real-world problems. From education and payments to logistics and public infrastructure, I design systems that scale, automate, and empower.
 
-![GitHub Views](https://komarev.com/ghpvc/?username=spykelionel)
+---
 
-# Badges
-[![@spykelionel's Holopin board](https://holopin.io/api/user/board?user=spykelionel)](https://holopin.io/@spykelionel)
+## 🚀 Featured Projects
+
+- **[Kimbolingo](https://kimbolingo.com)** – Language learning platform with gamified lessons and real-time feedback.
+- **[Learnoso](https://learnoso.com)** – Mentorship hub connecting students with expert guidance.
+- **[Femssa](https://femssa.com)** – Secure student payment system with fraud-resistant workflows.
+- **[Coabo](https://coabo.fr)** – Subscription management for creators and communities.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Frontend**: React, TypeScript, Tailwind, React Native
+- **Backend**: Node.js, Express, MongoDB, REST APIs
+- **DevOps**: Docker, CI/CD, GitHub Actions, Netlify, S3
+- **Automation**: Custom bots, Slack/GitHub integrations, API monitoring
+- **Other**: Accessibility-first design, anti-fraud systems, data migration scripting
+
+---
+
+## 📚 Teaching & Mentorship
+
+- Mentor for junior devs in system design, debugging, and deployment workflows
+
+---
+
+## 🌍 Mission
+
+I build tools that matter—especially for African communities. Whether it's digital queues for public offices or fraud-proof payment systems, I believe in engineering as strategic orchestration.
+
+---
+
+## 📫 Let's Connect
+
+- **Portfolio**: [Notion Workspace](https://www.notion.so/Lionel-Afanyu-2418794dfe7880e7baa8f20e68ea1186)
+- **LinkedIn**: [linkedin.com/in/ndilionel](https://linkedin.com/in/ndilionel)
+- **Email**: spykelionel794@gmail.com
+
+---
+
+> “Code is only half the story. The other half is how it empowers people.”
