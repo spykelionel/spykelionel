@@ -1,8 +1,8 @@
-# 👨‍💻 Ndi Afanyu Lionel
+# 👨‍💻 Lionel Afanyu
 
 **Software Engineer | Systems Thinker | Builder of Empowering Tools**
 
-Hi, I'm Ndi—a full-stack engineer and DevOps strategist passionate about building resilient, user-centric platforms that solve real-world problems. From education and payments to logistics and public infrastructure, I design systems that scale, automate, and empower.
+Hi, I'm Lionel, a full-stack engineer and DevOps strategist passionate about building resilient, user-centric platforms that solve real-world problems. From education and payments to logistics and public infrastructure, I design systems that scale, automate, and empower.
 
 ---
 
