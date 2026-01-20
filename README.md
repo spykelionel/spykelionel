@@ -41,7 +41,7 @@ I build tools that matter—especially for African communities. Whether it's dig
 
 - **Portfolio**: [Notion Workspace](https://www.notion.so/Lionel-Afanyu-2418794dfe7880e7baa8f20e68ea1186)
 - **LinkedIn**: [linkedin.com/in/ndilionel](https://linkedin.com/in/ndilionel)
-- **Email**: spykelionel794@gmail.com
+- **X(Twitter)**: [x.com/afanyulionel](https://x.com/afanyulionel)
 
 ---
 
