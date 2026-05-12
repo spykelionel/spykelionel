@@ -8,7 +8,7 @@ Hi, I'm Lionel, a full-stack engineer and DevOps strategist passionate about bui
 
 ## 🚀 Featured Projects
 
-- **[Kimbolingo](https://kimbolingo.com)** – Language learning platform with gamified lessons and real-time feedback.
+- **[Malegado](https://malegado.com)** – Language learning platform with gamified lessons and real-time feedback.
 - **[Learnoso](https://learnoso.com)** – Mentorship hub connecting students with expert guidance.
 - **[Femssa](https://femssa.com)** – Secure student payment system with fraud-resistant workflows.
 - **[Coabo](https://coabo.fr)** – Subscription management for creators and communities.
